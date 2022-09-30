@@ -43,7 +43,7 @@ OPTIONS:
 ### Setting modules
 Modules are configured in the `./src/config.ts` file. 
 
-In it, you can configure the default modules, as well as add new ones.
+In it, you can configure the default modules, **as well as add new ones**.
 
 The cron format is used to set the time to be executed a module.
 
