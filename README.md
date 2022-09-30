@@ -2,13 +2,10 @@
 Sending various information to your ntfy.sh topic by time
 
 ### Dependencies that are used
-[logger](https://deno.land/x/logger@v1.0.2/)
-
-[deno_cron](https://deno.land/x/deno_cron@v1.0.0/)
-
-[args](https://deno.land/x/args@2.1.1/)
-
-[deno_dom](https://deno.land/x/deno_dom@v0.1.35-alpha/)
+ - [logger](https://deno.land/x/logger@v1.0.2/)
+ - [deno_cron](https://deno.land/x/deno_cron@v1.0.0/)
+ - [args](https://deno.land/x/args@2.1.1/)
+ - [deno_dom](https://deno.land/x/deno_dom@v0.1.35-alpha/)
 
 ### Build binary
 ```sh
